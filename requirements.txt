@@ -7,7 +7,7 @@ certifi
 charset-normalizer
 click
 colorama
-Djang
+Django
 gitdb
 GitPython
 gunicorn
